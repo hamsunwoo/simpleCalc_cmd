@@ -1,4 +1,4 @@
-from hc_simpleCalc.calc import *
+from hc_simplecalc.calc import add, div, mul
 
 def call_add():
     add()

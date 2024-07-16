@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:6cfafc85c77c40572cf0c01c8c9393cce87a70d2fce73dd314c0592f77056f25"
+content_hash = "sha256:c68e74885846d806c923245f57cc47fdb756e66c92496927f68d1388b85bc0e0"
 
 [[package]]
 name = "hc-simplecalc"
