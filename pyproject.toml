@@ -1,6 +1,6 @@
 [project]
 name = "simpleCalc_cmd"
-version = "1.2.1"
+version = "1.2.2"
 description = "Default template for PDM package"
 authors = [
     {name = "sunwoo", email = "summerham22@gmail.com"},
